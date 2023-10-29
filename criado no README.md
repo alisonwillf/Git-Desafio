@@ -9,4 +9,4 @@
   <p>Primeiro projeto responsivo</p>
 <img src="https://github.com/alisonwillf/Easy-Shopping/blob/master/assets/Easy%20Shopping%20desk.png">
   <br>
-<img src="https://github.com/alisonwillf/Easy-Shopping/blob/master/assets/Easy%20Shopping%20mobile.png>
+<img src="https://github.com/alisonwillf/Easy-Shopping/blob/master/assets/Easy%20Shopping%20mobile.png">
